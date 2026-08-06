@@ -126,7 +126,7 @@ Add screenshots of:
 
 ## Author
 
-**Vishwasreddy**
+**Vishwas Reddy**
 
 Btech CSE
 
