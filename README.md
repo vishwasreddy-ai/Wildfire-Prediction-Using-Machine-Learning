@@ -107,7 +107,11 @@ The solution is built using Python, Scikit-learn, XGBoost, TensorFlow, Pandas, N
 
 ### Flowchart
 <img width="991" height="1145" alt="Flowchart 1" src="https://github.com/user-attachments/assets/9f9490f8-ec75-4105-b656-46782e1c5ae8" />
+<img width="938" height="1333" alt="Flowchart 3" src="https://github.com/user-attachments/assets/d0e3f859-edbe-46c3-8cb2-a26023d2c447" />
 
+### Heatmaps
+<img width="1179" height="904" alt="Image 1" src="https://github.com/user-attachments/assets/3d8321a4-a90a-4a33-968a-d3aaeeafb039" />
+<img width="1179" height="1272" alt="Image 2" src="https://github.com/user-attachments/assets/bb8c076c-d981-43ff-9ea8-dfffebcebe37" />
 
 ---
 
