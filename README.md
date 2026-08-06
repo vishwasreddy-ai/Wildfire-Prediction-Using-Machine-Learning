@@ -103,14 +103,11 @@ The solution is built using Python, Scikit-learn, XGBoost, TensorFlow, Pandas, N
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Images
 
-Add screenshots of:
-- Correlation Heatmap
-- Confusion Matrix
-- Model Accuracy Graph
-- Feature Importance Graph
-- Prediction Results
+### Flowchart
+<img width="991" height="1145" alt="Flowchart 1" src="https://github.com/user-attachments/assets/9f9490f8-ec75-4105-b656-46782e1c5ae8" />
+
 
 ---
 
